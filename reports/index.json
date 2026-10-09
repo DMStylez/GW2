@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261008-181634-qozm",
+      "title": "Get Mesmorized",
+      "commanders": [
+        "Get Mesmorized"
+      ],
+      "guild": {
+        "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
+        "name": "Lurk In Absolute Darkness",
+        "tag": "Nite"
+      },
+      "dateStart": "2026-10-09T00:16:34.000Z",
+      "dateEnd": "2026-10-09T01:05:09.708Z",
+      "dateLabel": "10/8/2026, 6:16:34 PM - 10/8/2026, 7:05:09 PM",
+      "url": "https://dmstylez.github.io/GW2/?report=20261008-181634-qozm",
+      "publishedBy": "DMStylez",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20261008-181634-618w",
       "title": "Get Mesmorized",
       "commanders": [
