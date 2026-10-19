@@ -5,9 +5,48 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.1"
+    "version": "3.22.9"
   },
   "entries": [
+    {
+      "id": "20261018-100413-i5it",
+      "title": "Plurps",
+      "commanders": [
+        "Plurps"
+      ],
+      "guild": {
+        "id": "5D7F8C82-E09D-4788-82F9-41506AA6A4DD",
+        "name": "Wait What How",
+        "tag": "Hek"
+      },
+      "dateStart": "2026-10-18T16:04:13.000Z",
+      "dateEnd": "2026-10-18T18:02:11.098Z",
+      "dateLabel": "10/18/2026, 10:04:13 AM - 10/18/2026, 12:02:11 PM",
+      "url": "https://dmstylez.github.io/GW2/?report=20261018-100413-i5it",
+      "publishedBy": "DMStylez",
+      "summary": {
+        "borderlandsPct": 0.2222222222222222,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 17
+      }
+    },
     {
       "id": "20261008-181634-qozm",
       "title": "Get Mesmorized",
