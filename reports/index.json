@@ -9,6 +9,45 @@
   },
   "entries": [
     {
+      "id": "20261023-175123-gtq6",
+      "title": "Plurps",
+      "commanders": [
+        "Plurps"
+      ],
+      "guild": {
+        "id": "5D7F8C82-E09D-4788-82F9-41506AA6A4DD",
+        "name": "Wait What How",
+        "tag": "Hek"
+      },
+      "dateStart": "2026-10-23T23:51:23.000Z",
+      "dateEnd": "2026-10-24T00:55:58.151Z",
+      "dateLabel": "10/23/2026, 5:51:23 PM - 10/23/2026, 6:55:58 PM",
+      "url": "https://dmstylez.github.io/GW2/?report=20261023-175123-gtq6",
+      "publishedBy": "DMStylez",
+      "summary": {
+        "borderlandsPct": 0.5,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20261018-100413-i5it",
       "title": "Plurps",
       "commanders": [
