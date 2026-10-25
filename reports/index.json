@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261024-181209-4js5",
+      "title": "Osprey Shark",
+      "commanders": [
+        "Osprey Shark"
+      ],
+      "guild": {
+        "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
+        "name": "Lurk In Absolute Darkness",
+        "tag": "Nite"
+      },
+      "dateStart": "2026-10-25T00:12:09.000Z",
+      "dateEnd": "2026-10-25T00:50:07.511Z",
+      "dateLabel": "10/24/2026, 6:12:09 PM - 10/24/2026, 6:50:07 PM",
+      "url": "https://dmstylez.github.io/GW2/?report=20261024-181209-4js5",
+      "publishedBy": "DMStylez",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 37,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20261023-175123-gtq6",
       "title": "Plurps",
       "commanders": [
