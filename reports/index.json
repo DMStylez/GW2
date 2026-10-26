@@ -9,6 +9,45 @@
   },
   "entries": [
     {
+      "id": "20261025-192405-x4j2",
+      "title": "Get Mesmorized",
+      "commanders": [
+        "Get Mesmorized"
+      ],
+      "guild": {
+        "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
+        "name": "Lurk In Absolute Darkness",
+        "tag": "Nite"
+      },
+      "dateStart": "2026-10-26T01:24:05.000Z",
+      "dateEnd": "2026-10-26T01:59:03.791Z",
+      "dateLabel": "10/25/2026, 7:24:05 PM - 10/25/2026, 7:59:03 PM",
+      "url": "https://dmstylez.github.io/GW2/?report=20261025-192405-x4j2",
+      "publishedBy": "DMStylez",
+      "summary": {
+        "borderlandsPct": 0.65,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20261024-181209-4js5",
       "title": "Osprey Shark",
       "commanders": [
