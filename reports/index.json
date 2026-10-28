@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261027-182626-qzr7",
+      "title": "Othellla",
+      "commanders": [
+        "Othellla"
+      ],
+      "guild": {
+        "id": "A0855B48-F85D-E711-80D4-E4115BEBA648",
+        "name": "Questionable Integrity",
+        "tag": "Sin"
+      },
+      "dateStart": "2026-10-28T00:26:26.000Z",
+      "dateEnd": "2026-10-28T00:52:42.409Z",
+      "dateLabel": "10/27/2026, 6:26:26 PM - 10/27/2026, 6:52:42 PM",
+      "url": "https://dmstylez.github.io/GW2/?report=20261027-182626-qzr7",
+      "publishedBy": "DMStylez",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20261025-192405-x4j2",
       "title": "Get Mesmorized",
       "commanders": [
